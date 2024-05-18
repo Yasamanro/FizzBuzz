@@ -32,7 +32,7 @@ software setup instructions from Week 0 on Quercus.
 
 * Now that you have a copy of the code on your computer, you can proceed to work through the rest of the activity
 in IntelliJ. Open this `README.md` file in IntelliJ and in the top-right you can toggle between seeing the editor,
-editor+preview, or just the preview of this markdown file.
+editor+preview, or just the preview of this markdown file. 
 Feel free to take notes in it as you go or just read the preview view of it.
 
 Before we begin, note that IntelliJ is made by the same company as PyCharm, so it should feel quite familiar to you,
