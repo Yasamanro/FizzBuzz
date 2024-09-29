@@ -6,6 +6,7 @@ public class Multiples {
                 divisibleCount++;
             }
         }
+
         System.out.println(divisibleCount);
     }
 }
